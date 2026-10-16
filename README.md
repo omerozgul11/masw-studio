@@ -205,7 +205,7 @@ Full details and citations are in the scientific-methods document built into the
 | [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
 | [Training video (MP4, 6½ min)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4) | narrated walkthrough of the complete workflow, with captions |
 | [Product datasheet (PDF)](marketing/QuakeLogic-MASW-Studio-Datasheet.pdf) | 8-page overview: features, supported data, requirements, licensing options, specifications |
-| [Field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf) | first-time setup: equipment, line layout, geophones, trigger, seismograph settings, recording, installing and using MASW Studio, checklists and field sheet |
+| [Field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf) | 11 pages following the [seismograph setup video](https://www.youtube.com/watch?v=UKbyq0FmyzE): equipment case, line layout, digital line cable and geophones, master unit and laptop, recording software, recording a shot, installing and using MASW Studio, checklists, field sheet and troubleshooting |
 | In-app user guide | installation, every workspace, the 2D section, Library, licensing, shortcuts |
 | In-app scientific methods and validation record | algorithms, equations, citations and test evidence |
 | [Licence agreement](EULA.md) | end-user licence agreement |

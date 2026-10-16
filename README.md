@@ -12,6 +12,7 @@ No account. No internet connection. Everything runs on your own computer.</p>
   <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
   <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4"><strong>training video (6½ min)</strong></a> ·
   <a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><strong>product datasheet (PDF)</strong></a> ·
+  <a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><strong>field guide: set up your equipment (PDF)</strong></a> ·
   <a href="https://github.com/omerozgul11/masw-studio-releases/releases">all releases</a> ·
   <a href="#licensing">full version · contact sales to buy</a>
 </p>
@@ -84,6 +85,19 @@ options and full technical specifications. Download it to print or share:
 
 <p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><img src="marketing/datasheet-preview-1.png" width="900" alt="Datasheet: cover, overview and key features"></a></p>
 <p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><img src="marketing/datasheet-preview-2.png" width="900" alt="Datasheet: supported data, technical specifications and contacts"></a></p>
+
+## Field guide: setting up your equipment
+
+New to MASW? The 10-page field guide takes you from the equipment case to a
+finished Vs report, step by step: what to bring, how long a line to lay out for
+the depth you need, planting and connecting the geophones, the trigger,
+seismograph settings, recording good shots, sloping ground, installing MASW
+Studio and analysing your first file. It ends with printable checklists, a field
+sheet and a troubleshooting table:
+**[MASW Studio field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf)**.
+
+<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-1.png" width="900" alt="Field guide: cover, planning the line and laying out the spread"></a></p>
+<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-2.png" width="900" alt="Field guide: sloping ground, installing MASW Studio, checklists, field sheet and troubleshooting"></a></p>
 
 ## A tour of the application
 
@@ -189,6 +203,7 @@ Full details and citations are in the scientific-methods document built into the
 | [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
 | [Training video (MP4, 6½ min)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4) | narrated walkthrough of the complete workflow, with captions |
 | [Product datasheet (PDF)](marketing/QuakeLogic-MASW-Studio-Datasheet.pdf) | 8-page overview: features, supported data, requirements, licensing options, specifications |
+| [Field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf) | first-time setup: equipment, line layout, geophones, trigger, seismograph settings, recording, installing and using MASW Studio, checklists and field sheet |
 | In-app user guide | installation, every workspace, the 2D section, Library, licensing, shortcuts |
 | In-app scientific methods and validation record | algorithms, equations, citations and test evidence |
 | [Licence agreement](EULA.md) | end-user licence agreement |

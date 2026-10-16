@@ -8,12 +8,12 @@
 No account. No internet connection. Everything runs on your own computer.</p>
 
 <p align="center">
-  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Setup-1.3.1.exe"><strong>⬇ Download for Windows (installer, v1.3.1)</strong></a> ·
-  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
-  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4"><strong>training video (6 min)</strong></a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Setup-1.3.2.exe"><strong>⬇ Download for Windows (installer, v1.3.2)</strong></a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4"><strong>training video (6½ min)</strong></a> ·
   <a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><strong>product datasheet (PDF)</strong></a> ·
   <a href="https://github.com/omerozgul11/masw-studio-releases/releases">all releases</a> ·
-  <a href="#licensing">buy a licence</a>
+  <a href="#licensing">full version · contact sales to buy</a>
 </p>
 
 ---
@@ -55,25 +55,25 @@ model or a pseudo-2D section as more than it is.
 
 ## Training video
 
-A six-minute narrated walkthrough of the real application: installing and licensing, importing
+A narrated walkthrough (6½ minutes) of the real application: getting started, importing
 field data, preprocessing, dispersion and picking, inversion and Vs30, the report, the 2D section
 with the void finder, the Library and the built-in help. Captions are burned in, and an `.srt`
 subtitle file is [included in the release](https://github.com/omerozgul11/masw-studio-releases/releases/latest).
 
-<p align="center"><a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4"><img src="marketing/training-video-preview.jpg" width="900" alt="Watch the MASW Studio training video"></a></p>
+<p align="center"><a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4"><img src="marketing/training-video-preview.jpg" width="900" alt="Watch the MASW Studio training video"></a></p>
 
 | Time | Chapter |
 |---|---|
 | 00:00 | Introduction |
 | 00:17 | Getting started |
-| 01:10 | Importing field data |
-| 02:27 | Preprocessing |
-| 02:52 | Dispersion and picking |
-| 03:37 | Velocity model and Vs30 |
-| 04:17 | Report |
-| 04:48 | 2D section and void finder |
-| 05:22 | Library and projects |
-| 05:50 | Help and support |
+| 00:53 | Importing field data |
+| 02:22 | Preprocessing |
+| 02:47 | Dispersion and picking |
+| 03:34 | Velocity model and Vs30 |
+| 04:13 | Report |
+| 04:51 | 2D section and void finder |
+| 05:30 | Library and projects |
+| 05:58 | Help and support |
 
 ## Product datasheet
 
@@ -138,24 +138,17 @@ project.
 
 ## Licensing
 
-MASW Studio runs as a full **14-day trial** from first use on a computer. During the trial every
-figure, table, section and report is marked **TRIAL**. Afterwards, projects can still be opened,
-viewed and saved, but new calculations and exports need a licence.
-
-A licence is a small signed `.qlicense` file issued by QuakeLogic for the **Machine ID** shown on
-the **License** page. Import it there: it is verified offline and never needs a connection.
-Licences are perpetual for the versions they cover and include updates released until their
-maintenance date (one year, renewable). Multi-seat, academic and volume pricing is available.
-Request a quote at <sales@quakelogic.net> or +1 (916) 899-0391. See the
+Every download is the **full version** of MASW Studio. There is no trial, no activation
+and no licence file: every calculation, export and report works offline from the first
+start. To buy MASW Studio, or for multi-computer, academic and volume pricing, contact
+<sales@quakelogic.net> or +1 (916) 899-0391. Use is governed by the
 [licence agreement](EULA.md).
-
-<p align="center"><img src="images/guide-license.png" width="900" alt="License page"></p>
 
 ## Download and install
 
 **Windows 10 (1809 or later) / 11, 64-bit.** About 1 GB of disk; 8 GB RAM recommended.
 
-1. Download the installer: [MASW-Studio-Setup-1.3.1.exe](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Setup-1.3.1.exe)
+1. Download the installer: [MASW-Studio-Setup-1.3.2.exe](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Setup-1.3.2.exe)
    (numbered versions and checksums are on the [Releases](https://github.com/omerozgul11/masw-studio-releases/releases) page).
 2. Run it, accept the licence agreement and leave **Launch MASW Studio** selected. Installing
    for all users asks for administrator approval.
@@ -193,8 +186,8 @@ Full details and citations are in the scientific-methods document built into the
 
 | Document | Content |
 |---|---|
-| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
-| [Training video (MP4, 6 min)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4) | narrated walkthrough of the complete workflow, with captions |
+| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
+| [Training video (MP4, 6½ min)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4) | narrated walkthrough of the complete workflow, with captions |
 | [Product datasheet (PDF)](marketing/QuakeLogic-MASW-Studio-Datasheet.pdf) | 8-page overview: features, supported data, requirements, licensing options, specifications |
 | In-app user guide | installation, every workspace, the 2D section, Library, licensing, shortcuts |
 | In-app scientific methods and validation record | algorithms, equations, citations and test evidence |

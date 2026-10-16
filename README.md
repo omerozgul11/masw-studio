@@ -88,16 +88,18 @@ options and full technical specifications. Download it to print or share:
 
 ## Field guide: setting up your equipment
 
-New to MASW? The 10-page field guide takes you from the equipment case to a
-finished Vs report, step by step: what to bring, how long a line to lay out for
-the depth you need, planting and connecting the geophones, the trigger,
-seismograph settings, recording good shots, sloping ground, installing MASW
+New to MASW? The 11-page field guide follows the setup shown in our
+[seismograph setup video](https://www.youtube.com/watch?v=UKbyq0FmyzE), from the equipment case to a
+finished Vs report: what is in the case, how long a line to lay out for
+the depth you need, unrolling the digital line cable and planting the geophones,
+connecting the master unit and laptop, the recording software, recording good
+shots, sloping ground, installing MASW
 Studio and analysing your first file. It ends with printable checklists, a field
 sheet and a troubleshooting table:
 **[MASW Studio field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf)**.
 
-<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-1.png" width="900" alt="Field guide: cover, planning the line and laying out the spread"></a></p>
-<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-2.png" width="900" alt="Field guide: sloping ground, installing MASW Studio, checklists, field sheet and troubleshooting"></a></p>
+<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-1.png" width="900" alt="Field guide: cover, planning the line, laying out the digital line cable"></a></p>
+<p align="center"><a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><img src="marketing/field-guide-preview-2.png" width="900" alt="Field guide: recording software, recording a shot, installing MASW Studio, troubleshooting"></a></p>
 
 ## A tour of the application
 

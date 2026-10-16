@@ -8,8 +8,9 @@
 No account. No internet connection. Everything runs on your own computer.</p>
 
 <p align="center">
-  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.0/MASW-Studio-Setup-1.3.0.exe"><strong>⬇ Download for Windows (installer, v1.3.0)</strong></a> ·
-  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.0/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Setup-1.3.1.exe"><strong>⬇ Download for Windows (installer, v1.3.1)</strong></a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
+  <a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4"><strong>training video (6 min)</strong></a> ·
   <a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><strong>product datasheet (PDF)</strong></a> ·
   <a href="https://github.com/omerozgul11/masw-studio-releases/releases">all releases</a> ·
   <a href="#licensing">buy a licence</a>
@@ -20,7 +21,7 @@ No account. No internet connection. Everything runs on your own computer.</p>
 ## What it is
 
 QuakeLogic MASW Studio is a Windows desktop application for **Multichannel Analysis of Surface
-Waves (MASW)**. It takes you from the shot records of an active-source survey (SEG-2, SEG-Y, DoReMi .drm or text) to a defensible,
+Waves (MASW)**. It takes you from the shot records of an active-source survey (SEG-2, SEG-Y, DRM (.drm) or text) to a defensible,
 fully documented result:
 - import and geometry review, then transparent, non-destructive preprocessing
 - F–V and F–K dispersion images, with picking of named modes
@@ -42,7 +43,7 @@ model or a pseudo-2D section as more than it is.
 | | |
 |---|---|
 | **Truly standalone** | One installer, one icon, its own application window, bundled runtime. No services, no ports, no cloud. Works on a laptop in the field. |
-| **Field data in seconds** | SEG-2 (`.sg2`, `.seg2`, `.dat`, including 20-bit), SEG-Y (`.sgy`, `.segy`), DoReMi `.drm` and time-column text (`.csv`, `.txt`, `.dat`), a whole line at once. The format is recognised from the file contents. Geometry is read from the headers and confirmed before analysis. |
+| **Field data in seconds** | SEG-2 (`.sg2`, `.seg2`, `.dat`, including 20-bit), SEG-Y (`.sgy`, `.segy`), `.drm` and time-column text (`.csv`, `.txt`, `.dat`), a whole line at once. The format is recognised from the file contents. Geometry is read from the headers and confirmed before analysis. |
 | **Transparent processing** | Detrend, zero-phase Butterworth filters and time/linear mutes, previewed beside the original record. Trace editing, stacking and splitting are reversible and audited. |
 | **Dispersion you can trust** | Phase-shift F–V and F–K transforms with aperture and spatial-aliasing QC guides. Click-to-pick named modes with explicit uncertainty. |
 | **Modelling and inversion** | Rayleigh (P–SV) and Love (SH) modes of a layered elastic earth. Bounded least-squares inversion with convergence history. A Vs30 average line over 0–30 m. |
@@ -51,6 +52,28 @@ model or a pseudo-2D section as more than it is.
 | **Library of past analyses** | Search every project by client, site or notes, reopen it where you left off, or pull its shots into a new project. |
 | **Learn it in ten minutes** | A guided tour with a bundled example SEG-2 file, plus an illustrated user guide built in. |
 | **Your data stays yours** | Fully offline, no telemetry, local recovery and undo/redo, and self-contained `.qlmasw` projects. |
+
+## Training video
+
+A six-minute narrated walkthrough of the real application: installing and licensing, importing
+field data, preprocessing, dispersion and picking, inversion and Vs30, the report, the 2D section
+with the void finder, the Library and the built-in help. Captions are burned in, and an `.srt`
+subtitle file is [included in the release](https://github.com/omerozgul11/masw-studio-releases/releases/latest).
+
+<p align="center"><a href="https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4"><img src="marketing/training-video-preview.jpg" width="900" alt="Watch the MASW Studio training video"></a></p>
+
+| Time | Chapter |
+|---|---|
+| 00:00 | Introduction |
+| 00:17 | Getting started |
+| 01:10 | Importing field data |
+| 02:27 | Preprocessing |
+| 02:52 | Dispersion and picking |
+| 03:37 | Velocity model and Vs30 |
+| 04:17 | Report |
+| 04:48 | 2D section and void finder |
+| 05:22 | Library and projects |
+| 05:50 | Help and support |
 
 ## Product datasheet
 
@@ -71,7 +94,7 @@ language and moves on as you work, using a bundled example SEG-2 recording.
 <p align="center"><img src="images/guide-tour-step.png" width="900" alt="Guided tour"></p>
 
 ### 2. Import and geometry
-Open SEG-2, SEG-Y, DAT, DoReMi .drm or CSV shot records. The import summary shows channels, sampling and the source and
+Open SEG-2, SEG-Y, DAT, DRM (.drm) or CSV shot records. The import summary shows channels, sampling and the source and
 receiver positions read from the file, and the geometry is confirmed before any analysis.
 
 <p align="center"><img src="images/guide-import-summary.png" width="900" alt="Import summary"></p>
@@ -132,7 +155,7 @@ Request a quote at <sales@quakelogic.net> or +1 (916) 899-0391. See the
 
 **Windows 10 (1809 or later) / 11, 64-bit.** About 1 GB of disk; 8 GB RAM recommended.
 
-1. Download the installer: [MASW-Studio-Setup-1.3.0.exe](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.0/MASW-Studio-Setup-1.3.0.exe)
+1. Download the installer: [MASW-Studio-Setup-1.3.1.exe](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Setup-1.3.1.exe)
    (numbered versions and checksums are on the [Releases](https://github.com/omerozgul11/masw-studio-releases/releases) page).
 2. Run it, accept the licence agreement and leave **Launch MASW Studio** selected. Installing
    for all users asks for administrator approval.
@@ -148,7 +171,7 @@ so Windows may show **Unknown publisher**: choose **More info → Run anyway**.
 |---|---|
 | SEG-2 revision 1 | `.sg2`, `.seg2`, `.seg`, `.dat`; encodings 1, 2, 3, 4, 5 (16/32-bit integer, 20-bit packed, 32/64-bit IEEE float); up to 512 channels, 256 MiB per file; geometry and units from the headers |
 | SEG-Y rev 0/1/2 | `.sgy`, `.segy`, `.dat`; IBM or IEEE float, 8/16/32-bit integer; big- or little-endian; geometry from coordinates or offsets |
-| DoReMi (SARA) | `.drm` recordings; if one uses a layout this version cannot read, export it as SEG-2 from the DoReMi or GeoExplorer |
+| DRM field recordings | native `.drm` recordings (32-bit samples, channel positions and enabled flags from the header), plus `.drm` files holding SEG-2/SEG-Y; SEG-2 exports with `UNITS NONE` keep their positions |
 | Text columns | `.csv`, `.txt`, `.dat`, `.asc`; a time column (s or ms) plus one column per channel; comma, semicolon, tab or space separated; header optional |
 | `.qlmasw` projects | self-contained projects with raw data, processing, picks, models, notes and photos |
 | Not supported | SU, SEG-D and other proprietary formats; export SEG-2 or SEG-Y instead |
@@ -170,7 +193,8 @@ Full details and citations are in the scientific-methods document built into the
 
 | Document | Content |
 |---|---|
-| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.0/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
+| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
+| [Training video (MP4, 6 min)](https://github.com/omerozgul11/masw-studio-releases/releases/download/v1.3.1/MASW-Studio-Training-1.3.1.mp4) | narrated walkthrough of the complete workflow, with captions |
 | [Product datasheet (PDF)](marketing/QuakeLogic-MASW-Studio-Datasheet.pdf) | 8-page overview: features, supported data, requirements, licensing options, specifications |
 | In-app user guide | installation, every workspace, the 2D section, Library, licensing, shortcuts |
 | In-app scientific methods and validation record | algorithms, equations, citations and test evidence |

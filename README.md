@@ -8,9 +8,9 @@
 No account. No internet connection. Everything runs on your own computer.</p>
 
 <p align="center">
-  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Setup-1.3.2.exe"><strong>⬇ Download for Windows (installer, v1.3.2)</strong></a> ·
-  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
-  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4"><strong>training video (6½ min)</strong></a> ·
+  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Setup-1.3.3.exe"><strong>⬇ Download for Windows (installer, v1.3.3)</strong></a> ·
+  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Brochure-and-User-Guide.pdf">brochure &amp; user guide (PDF)</a> ·
+  <a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Training-1.3.2.mp4"><strong>training video (6½ min)</strong></a> ·
   <a href="marketing/QuakeLogic-MASW-Studio-Datasheet.pdf"><strong>product datasheet (PDF)</strong></a> ·
   <a href="marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf"><strong>field guide: set up your equipment (PDF)</strong></a> ·
   <a href="https://github.com/omerozgul11/masw-studio/releases">release notes &amp; checksums</a> ·
@@ -49,9 +49,10 @@ model or a pseudo-2D section as more than it is.
 | **Dispersion you can trust** | Phase-shift F–V and F–K transforms with aperture and spatial-aliasing QC guides. Click-to-pick named modes with explicit uncertainty. |
 | **Modelling and inversion** | Rayleigh (P–SV) and Love (SH) modes of a layered elastic earth. Bounded least-squares inversion with convergence history. A Vs30 average line over 0–30 m. |
 | **2D section and void finder** | Every station of a roll-along line, interpolated on a fine grid without overshoot. The void-finder view shows slower ground in red, investigation depth is hatched, and velocity inversions are flagged. |
+| **Uneven ground** | Slopes, riverbeds and valleys: geophone and source elevations are read from the file, typed, pasted or set as a straight slope. Distances are measured along the ground, and the 2D section has an elevation view that follows the real ground surface. |
 | **Reports and exports** | A branded technical PDF with a page-by-page preview. PNG/SVG/PDF figures and CSV tables. |
 | **Library of past analyses** | Search every project by client, site or notes, reopen it where you left off, or pull its shots into a new project. |
-| **Learn it in ten minutes** | A guided tour with a bundled example SEG-2 file, plus an illustrated user guide built in. |
+| **Learn it in ten minutes** | A guided tour with a bundled example SEG-2 file, an illustrated user guide built in, and an **i** circle that explains each setting in plain words. |
 | **Your data stays yours** | Fully offline, no telemetry, local recovery and undo/redo, and self-contained `.qlmasw` projects. |
 
 ## Training video
@@ -61,7 +62,7 @@ field data, preprocessing, dispersion and picking, inversion and Vs30, the repor
 with the void finder, the Library and the built-in help. Captions are burned in, and an `.srt`
 subtitle file is [included in the release](https://github.com/omerozgul11/masw-studio/releases/latest).
 
-<p align="center"><a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4"><img src="marketing/training-video-preview.jpg" width="900" alt="Watch the MASW Studio training video"></a></p>
+<p align="center"><a href="https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Training-1.3.2.mp4"><img src="marketing/training-video-preview.jpg" width="900" alt="Watch the MASW Studio training video"></a></p>
 
 | Time | Chapter |
 |---|---|
@@ -164,7 +165,7 @@ start. To buy MASW Studio, or for multi-computer, academic and volume pricing, c
 
 **Windows 10 (1809 or later) / 11, 64-bit.** About 1 GB of disk; 8 GB RAM recommended.
 
-1. Download the installer: [MASW-Studio-Setup-1.3.2.exe](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Setup-1.3.2.exe)
+1. Download the installer: [MASW-Studio-Setup-1.3.3.exe](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Setup-1.3.3.exe)
    (release notes and checksums are on the [Releases](https://github.com/omerozgul11/masw-studio/releases) page).
 2. Run it, accept the licence agreement and leave **Launch MASW Studio** selected. Installing
    for all users asks for administrator approval.
@@ -202,8 +203,8 @@ Full details and citations are in the scientific-methods document built into the
 
 | Document | Content |
 |---|---|
-| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
-| [Training video (MP4, 6½ min)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.2/MASW-Studio-Training-1.3.2.mp4) | narrated walkthrough of the complete workflow, with captions |
+| [Brochure &amp; user guide (PDF)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Brochure-and-User-Guide.pdf) | product overview and the complete illustrated user guide (also in the app under *User guide*) |
+| [Training video (MP4, 6½ min)](https://github.com/omerozgul11/masw-studio/releases/download/v1.3.3/MASW-Studio-Training-1.3.2.mp4) | narrated walkthrough of the complete workflow, with captions |
 | [Product datasheet (PDF)](marketing/QuakeLogic-MASW-Studio-Datasheet.pdf) | 8-page overview: features, supported data, requirements, licensing options, specifications |
 | [Field guide (PDF)](marketing/QuakeLogic-MASW-Studio-Field-Guide.pdf) | 11 pages following the [seismograph setup video](https://www.youtube.com/watch?v=UKbyq0FmyzE): equipment case, line layout, digital line cable and geophones, master unit and laptop, recording software, recording a shot, installing and using MASW Studio, checklists, field sheet and troubleshooting |
 | In-app user guide | installation, every workspace, the 2D section, Library, licensing, shortcuts |
